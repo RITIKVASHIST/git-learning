@@ -8,3 +8,5 @@ const name2="ritik";
 console.log("hi ritik");
 
 console.log("final commit");
+
+console.log("latest update");
